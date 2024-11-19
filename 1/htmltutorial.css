@@ -1,0 +1,29 @@
+.deck {
+  background: #f7f3f7;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+pre {
+  background: #e7e7e7;
+  padding: 15px;
+}
+
+u {
+  text-decoration: none; 
+  border-bottom: 1px dotted black;
+}
+
+.teg {
+  background:  #e7e7e7;
+  color: rgb(255, 78, 19);
+}
+
+.words {
+  background: rgb(223, 220, 220);
+  color: rgb(99, 220, 179);
+}

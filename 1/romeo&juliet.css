@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(233, 233, 233);
+    padding: 20px;
+   
+}
+
+#title {
+    color: rgb(65, 12, 114); /* цвет шрифта */
+    text-align: center;
+}
+ #color {
+    color: darkgrey;
+ }
+
+ #text {
+    text-align:left;
+    width: 26%;
+ }
